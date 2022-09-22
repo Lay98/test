@@ -21,3 +21,4 @@ hello lulu!  hello lay! master test
 wq    hot-fix test
 tset pull
 2222222222222222222  by lhc
+更新 gitee 点击刷新同步
